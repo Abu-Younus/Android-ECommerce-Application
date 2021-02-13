@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D19640</color>
+    <color name="colorPrimaryDark">#D19640</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="nutColor">#DADA8E</color>
+    <color name="btnRed">#9F0000</color>
+    <color name="red">#CE0000</color>
+    <color name="successGreen">#349734</color>
+    <color name="darkGreen">#275327</color>
+    <color name="yellow">#DFD12A</color>
+    <color name="darkYellow">#ffbb00</color>
+    <color name="orange">#C7842F</color>
+    <color name="lightBlue">#1D69E4</color>
+    <color name="rewardStartColor">#3606b6</color>
+    <color name="couponContainer">#ff5030</color>
+    <color name="recyclerBackground">#d6d6d6</color>
+</resources>

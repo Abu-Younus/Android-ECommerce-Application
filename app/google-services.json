@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138925982214",
+    "firebase_url": "https://sohoz-bazar.firebaseio.com",
+    "project_id": "sohoz-bazar",
+    "storage_bucket": "sohoz-bazar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138925982214:android:df707316255342ae7a3987",
+        "android_client_info": {
+          "package_name": "com.example.sohoz_bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138925982214-3algodtoj12a4uj7kc3jphul3g67n2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BlpivS2SgnD9iJlCYzd7PvccSotSGso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138925982214-3algodtoj12a4uj7kc3jphul3g67n2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

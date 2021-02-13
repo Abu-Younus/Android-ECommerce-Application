@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Lorem ipsum dolor sit amet, eu diam scripta facilis usu, vimurite farcequeries eu diam scripta facilis usu. Lorem ipsum dolor sit amet, eu diam scripta facilis usu, vimurite farcequeries eu diam scripta facilis usu. Lorem ipsum dolor sit amet, eu diam scripta facilis usu, vimurite farcequeries eu diam scripta facilis usu. Lorem ipsum dolor sit amet, eu diam scripta facilis usu, vimurite farcequeries eu diam scripta facilis usu. Lorem ipsum dolor sit amet, eu diam scripta facilis usu, vimurite farcequeries eu diam scripta facilis usu."
+        android:textColor="#000000" />
+
+</FrameLayout>
